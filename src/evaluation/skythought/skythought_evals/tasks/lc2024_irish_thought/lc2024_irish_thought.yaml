@@ -1,0 +1,8 @@
+handler: lc2024_irish_thought
+dataset_path: ../data/LC2024.json
+dataset_split: train
+question_key: problem
+answer_key: answer
+templating_parameters:
+  regular_template: "Please reason step by step, and put your final answer within \\boxed{{}}. {prompt}"
+  sky_template: "{prompt}\nReturn your final response within \\boxed{{}}" 

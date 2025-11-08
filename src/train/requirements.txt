@@ -1,0 +1,19 @@
+torch==2.3.1
+tensorboardX
+loguru
+nltk
+seqeval==1.2.2
+deepspeed==0.13.1
+sentencepiece==0.2.0
+transformers==4.52.4
+tokenizers
+datasets
+accelerate
+evaluate
+peft
+numpy
+scikit-learn
+wandb
+triton==2.3.1
+flash-attn --no-build-isolation
+bitsandbytes
