@@ -36,3 +36,6 @@ This repository contains code and resources for the paper `Reasoning Alignment f
 
 
 For more information, refer to the original document from the SkyThought repo.
+
+## Citation
+TBU
