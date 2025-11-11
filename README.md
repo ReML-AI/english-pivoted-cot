@@ -8,6 +8,7 @@ This repository contains code and resources for the paper `Reasoning Alignment f
 - `./data`: evaluation data, including our contributed dataset **LC2024**.
 - `./src/train`: training code, including for the baseline Native-CoT Training and **English-Pivoted CoT Training**.
 - `./src/evaluation`: evaluation code, based on the [SkyThought](https://github.com/NovaSky-AI/SkyThought) repo.
+- `./appendix.pdf`: technical appendix.
 
 ## Training
 1. Install dependencies:
