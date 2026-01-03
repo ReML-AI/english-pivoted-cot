@@ -1,4 +1,6 @@
 # Reasoning Transfer for an Extremely Low-resource and Endangered Language: Bridging Languages through Sample-Efficient Language Understanding
+Khanh-Tung Tran, Barry O'Sullivan, Hoang D. Nguyen
+
 *Accepted to AAAI-26*
 
 ## Overview
