@@ -41,4 +41,19 @@ This repository contains code and resources for the paper `Reasoning Alignment f
 For more information, refer to the original document from the SkyThought repo.
 
 ## Citation
-TBU
+```
+@article{Tran2026,
+  title = {Reasoning Transfer for an Extremely Low-Resource and Endangered Language: Bridging Languages Through Sample-Efficient Language Understanding},
+  volume = {40},
+  ISSN = {2159-5399},
+  url = {http://dx.doi.org/10.1609/aaai.v40i39.40613},
+  DOI = {10.1609/aaai.v40i39.40613},
+  number = {39},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  publisher = {Association for the Advancement of Artificial Intelligence (AAAI)},
+  author = {Tran,  Khanh-Tung and O’Sullivan,  Barry and Nguyen,  Hoang D.},
+  year = {2026},
+  month = mar,
+  pages = {33277–33286}
+}
+```
